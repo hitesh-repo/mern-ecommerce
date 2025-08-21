@@ -1,0 +1,8 @@
+node_modules/
+.env
+dist/
+.turbo/
+prisma/dev.db
+.env*
+coverage/
+.DS_Store
